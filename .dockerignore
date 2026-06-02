@@ -1,3 +1,5 @@
+# Docker ignore file for Python projects
+
 __pycache__/
 *.pyc
 .env
