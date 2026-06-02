@@ -1,6 +1,7 @@
 # mlops-git-assignment-soodeh-vanaki
 
-
+Course Code: MAI201  
+Date: June 02, 2026
 
 
 
