@@ -1,5 +1,7 @@
 # mlops-git-assignment-soodeh-vanaki
 
+Student Name: Soodeh Vanaki  
+Student ID: 075782128
 Course Code: MAI201  
 Date: June 02, 2026
 
