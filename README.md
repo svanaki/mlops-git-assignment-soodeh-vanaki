@@ -32,5 +32,37 @@ The purpose of this project is to practice Git version control workflows, includ
 
 
 
+\## Prerequisites
 
+
+
+Before using this repository, ensure you have:
+
+
+
+\- Git installed
+
+\- A GitHub account
+
+\- Access to a terminal (Git Bash, PowerShell, or Command Prompt)
+
+
+
+\## Setup Instructions
+
+
+
+1\. Clone the repository:
+
+
+
+```bash
+
+git clone https://github.com/svanaki/mlops-git-assignment-soodeh-vanaki.git
+
+
+
+2\. Create a branch
+
+3\. Commit and push changes
 
